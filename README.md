@@ -7,32 +7,32 @@ These take just a few minutes to learn and can save you hours of repetitive typi
 ---
 ### Official Docs
 
-<li>[Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)</li>
+[Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-<li>[Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)</li>
+[Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ---
 ### Content
 
-<li>[Auto Format](#format)</li>
+[Auto Format](#format)
 
-<li>[Open / Close Terminal](#terminal)</li>
+[Open / Close Terminal](#terminal)
 
-<li>[Save](#save)</li>
+[Save](#save)
 
-<li>[Copy, Cut, Paste](#copy)</li>
+[Copy, Cut, Paste](#copy)
 
-<li>[Undo](#undo)</li>
+[Undo](#undo)
 
-<li>[Delete Line](#delete)</li>
+[Delete Line](#delete)
 
-<li>[Move Lines / Copy Up/Down](#move)</li>
+[Move Lines / Copy Up/Down](#move)
 
-<li>[Select Multiple](#multiple)</li>
+[Select Multiple](#multiple)
 
-<li>[Indent](#indent)</li>
+[Indent](#indent)
 
-<li>[Extend / Decrease Selection](#extend)</li>
+[Extend / Decrease Selection](#extend)
 
 ---
 ## Absolutely Necessary:
@@ -68,9 +68,11 @@ Alt Shift F will auto-format whatever file you are currently in. This is an easy
 Vscode provides additional copy-paste functionality to make your life easier:
 
 <li>If you haven't selected anything, cut and copy will simply cut or copy your current line - this is super useful for deleting one or a few lines without having to select anything.</li>
-<liAfter you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.</---
-## Extremely useful
-<a id="undo"></a>
+<li\>After you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.
+---
+## Extremely useful:
+
+<a id="un>
 ### Undo
 
 `CTRL + Z` - Undo last action.
