@@ -7,80 +7,32 @@ These take just a few minutes to learn and can save you hours of repetitive typi
 ---
 ### Official Docs
 
-<li>
+<li>[Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)</li>
 
-[Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
-</li>
-
-<li>
-
-[Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
-
-</li>
+<li>[Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)</li>
 
 ---
 ### Content
 
-<li>
+<li>[Auto Format](#format)</li>
 
-[Auto Format](#format)
+<li>[Open / Close Terminal](#terminal)</li>
 
-</li>
+<li>[Save](#save)</li>
 
-<li>
+<li>[Copy, Cut, Paste](#copy)</li>
 
-[Open / Close Terminal](#terminal)
+<li>[Undo](#undo)</li>
 
-</li>
+<li>[Delete Line](#delete)</li>
 
-<li>
+<li>[Move Lines / Copy Up/Down](#move)</li>
 
-[Save](#save)
+<li>[Select Multiple](#multiple)</li>
 
-</li>
+<li>[Indent](#indent)</li>
 
-<li>
-
-[Copy, Cut, Paste](#copy)
-
-</li>
-
-<li>
-
-[Undo](#undo)
-
-</li>
-
-<li>
-
-[Delete Line](#delete)
-
-</li>
-
-<li>
-
-[Move Lines / Copy Up/Down](#move)
-
-</li>
-
-<li>
-
-[Select Multiple](#multiple)
-
-</li>
-
-<li>
-
-[Indent](#indent)
-
-</li>
-
-<li>
-
-[Extend / Decrease Selection](#extend)
-
-</li>
+<li>[Extend / Decrease Selection](#extend)</li>
 
 ---
 ## Absolutely Necessary:
@@ -116,11 +68,8 @@ Alt Shift F will auto-format whatever file you are currently in. This is an easy
 Vscode provides additional copy-paste functionality to make your life easier:
 
 <li>If you haven't selected anything, cut and copy will simply cut or copy your current line - this is super useful for deleting one or a few lines without having to select anything.</li>
-<li>After you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.</li>
-
----
-## Extremely useful:
-
+<liAfter you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.</---
+## Extremely useful
 <a id="undo"></a>
 ### Undo
 
