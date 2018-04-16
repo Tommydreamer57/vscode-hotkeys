@@ -10,9 +10,15 @@ These ones are crucial to know and will vastly increase your coding speed.
 
 ### Auto-Format
 
-`ALT + SHIFT + F`
+`CTRL + SHIFT + F` - Mac
+
+`ALT + SHIFT + F` - Windows
 
 Alt Shift F will auto-format whatever file you are currently in. This is an easy way to keep your code clean and consistent. It is also an easy way to find syntax errors as these will mess up the formatting and make them obvious.
+
+### Save
+
+`CTRL + S` - Save - saves your current file.
 
 ### Copy, Cut, and Paste
 
@@ -27,15 +33,39 @@ Vscode provides additional copy-paste functionality to make your life easier:
 <li>If you haven't selected anything, cut and copy will simply cut or copy your current line - this is super useful for deleting one or a few lines without having to select anything.</li>
 <li>After you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.</li>
 
+## Extremely useful
+
 ### Undo
 
 `CTRL + Z` - Undo - undoes the last action.
 
-### Move Lines / Copy up / down
+### Move Lines / Copy up/down
 
-`ALT + UP` / `ALT + DOWN` - Move current line
+`OPTION + UP` / `OPTION + DOWN` - Move current line - Mac
 
-`ALT + SHIFT + UP` / `ALT + SHIFT + DOWN` - Copy current line up/down
+`OPTION + SHIFT + UP` / `OPTION + SHIFT + DOWN` - Copy current line up/down - Mac
+
+`ALT + UP` / `ALT + DOWN` - Move current line - Windows
+
+`ALT + SHIFT + UP` / `ALT + SHIFT + DOWN` - Copy current line up/down - Windows
 
 Alt Up/Down will switch all currently selected lines with the next one up or down.
-Alt Shift Up/Down will 
+Alt Shift Up/Down will copy all currently selected lines and insert them on the next line up/down.
+
+### Select Multiple
+
+`CTRL + D` - Select next instance of current selection
+
+`CTRL + Click` - Select
+
+You kinda have to see this one to know how it works, but it'll blow your mind when you do.
+
+If you select a word, then press CTRL D, vscode will select the next instance of that word. If you hold CTRL D, it will select all matches of that word in the current file.
+
+If you just want to select multiple different places, you can hold CTRL and click wherever you would like to place another cursor.
+
+
+
+
+
+
