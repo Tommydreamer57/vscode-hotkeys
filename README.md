@@ -41,7 +41,11 @@ Vscode provides additional copy-paste functionality to make your life easier:
 
 ### Undo
 
-`CTRL + Z` - Undo - undoes the last action.
+`CTRL + Z` - Undo last action.
+
+### Delete Line
+
+`CTRL + SHIFT + K` - Delete current line
 
 ### Move Lines / Copy up/down
 
