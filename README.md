@@ -15,9 +15,13 @@ These ones are crucial to know and will vastly increase your coding speed.
 
 Alt Shift F will auto-format whatever file you are currently in. This is an easy way to keep your code clean and consistent. It is also an easy way to find syntax errors as these will mess up the formatting and make them obvious.
 
+### Open / Close Terminal
+
+`CTRL + ~` - Opens or closes vscode's built-in terminal.
+
 ### Save
 
-`CTRL + S` - Save - saves your current file.
+`CTRL + S` - Saves your current file.
 
 ### Copy, Cut, and Paste
 
