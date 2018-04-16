@@ -79,6 +79,16 @@ If you just want to select multiple different places, you can hold CTRL and clic
 ---
 ## Good To Know
 
+### Indent Selection
+
+`CTRL + ]` - Indent all selected lines
+
+`CTRL + [` - Remove indent from selected lines
+
+If you haven't selected anything, CTRL ]/\[ will indent or remove the indent from the current line.
+
+If there is no indent to remove, CTRL \[ will not do anything.
+
 ### Extend / Decrease Selection
 
 `SHIFT + LEFT` / `SHIFT + RIGHT` - Extend/decrease selection by one character
