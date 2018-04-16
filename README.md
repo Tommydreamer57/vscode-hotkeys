@@ -1,8 +1,14 @@
-# vscode-hotkeys
+# VSCode Hotkeys
 
 Here is a list of hotkeys in vscode that you should all know. Some of them are absolutely necessary and you will use them every single day, while others you may only use occasionally.
 
-Take just a couple minutes to learn each one and practice getting used to it and it will save you time and frustration.
+These take just a few minutes to learn and can save you hours of repetitive typing.
+
+---
+
+[Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
+[Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ---
 ## Absolutely Necessary:
@@ -37,7 +43,7 @@ Vscode provides additional copy-paste functionality to make your life easier:
 <li>After you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.</li>
 
 ---
-## Extremely useful
+## Extremely useful:
 
 ### Undo
 
@@ -77,7 +83,7 @@ If you select a word, then press CTRL D, vscode will select the next instance of
 If you just want to select multiple different places, you can hold CTRL and click wherever you would like to place another cursor.
 
 ---
-## Good To Know
+## Good To Know:
 
 ### Indent Selection
 
