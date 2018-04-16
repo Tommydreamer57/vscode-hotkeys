@@ -5,30 +5,106 @@ Here is a list of hotkeys in vscode that you should all know. Some of them are a
 These take just a few minutes to learn and can save you hours of repetitive typing.
 
 ---
+### Official Docs
+
+<li>
 
 [Windows Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
+</li>
+
+<li>
+
 [Mac Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
+</li>
+
+---
+### Content
+
+<li>
+
+[Auto Format](#format)
+
+</li>
+
+<li>
+
+[Open / Close Terminal](#terminal)
+
+</li>
+
+<li>
+
+[Save](#save)
+
+</li>
+
+<li>
+
+[Copy, Cut, Paste](#copy)
+
+</li>
+
+<li>
+
+[Undo](#undo)
+
+</li>
+
+<li>
+
+[Delete Line](#delete)
+
+</li>
+
+<li>
+
+[Move Lines / Copy Up/Down](#move)
+
+</li>
+
+<li>
+
+[Select Multiple](#multiple)
+
+</li>
+
+<li>
+
+[Indent](#indent)
+
+</li>
+
+<li>
+
+[Extend / Decrease Selection](#extend)
+
+</li>
 
 ---
 ## Absolutely Necessary:
 
 These ones are crucial to know and will vastly increase your coding speed.
 
+<a id="format"></a>
 ### Auto-Format
 
 `ALT + SHIFT + F`
 
 Alt Shift F will auto-format whatever file you are currently in. This is an easy way to keep your code clean and consistent. It is also an easy way to find syntax errors as these will mess up the formatting and make them obvious.
 
+<a id="terminal"></a>
 ### Open / Close Terminal
 
 `CTRL + ~` - Opens or closes vscode's built-in terminal.
 
+<a id="save"></a>
 ### Save
 
 `CTRL + S` - Saves your current file.
 
+<a id="copy"></a>
 ### Copy, Cut, and Paste
 
 `CTRL + C` - Copy - copies your current selection to the clipboard.
@@ -45,14 +121,17 @@ Vscode provides additional copy-paste functionality to make your life easier:
 ---
 ## Extremely useful:
 
+<a id="undo"></a>
 ### Undo
 
 `CTRL + Z` - Undo last action.
 
+<a id="delete"></a>
 ### Delete Line
 
 `CTRL + SHIFT + K` - Delete current line
 
+<a id="move"></a>
 ### Move Lines / Copy up/down
 
 Mac:
@@ -70,6 +149,7 @@ Windows:
 Alt Up/Down will switch all currently selected lines with the next one up or down.
 Alt Shift Up/Down will copy all currently selected lines and insert them on the next line up/down.
 
+<a id="multiple"></a>
 ### Select Multiple
 
 `CTRL + D` - Select next instance of current selection
@@ -85,6 +165,7 @@ If you just want to select multiple different places, you can hold CTRL and clic
 ---
 ## Good To Know:
 
+<a id="indent"></a>
 ### Indent Selection
 
 `CTRL + ]` - Indent all selected lines
@@ -95,6 +176,7 @@ If you haven't selected anything, CTRL ]/\[ will indent or remove the indent fro
 
 If there is no indent to remove, CTRL \[ will not do anything.
 
+<a id="extend"></a>
 ### Extend / Decrease Selection
 
 `SHIFT + LEFT` / `SHIFT + RIGHT` - Extend/decrease selection by one character
