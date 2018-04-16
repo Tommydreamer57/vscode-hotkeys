@@ -10,12 +10,6 @@ These ones are crucial to know and will vastly increase your coding speed.
 
 ### Auto-Format
 
-Mac:
-
-`CTRL + SHIFT + F`
-
-Windows:
-
 `ALT + SHIFT + F`
 
 Alt Shift F will auto-format whatever file you are currently in. This is an easy way to keep your code clean and consistent. It is also an easy way to find syntax errors as these will mess up the formatting and make them obvious.
