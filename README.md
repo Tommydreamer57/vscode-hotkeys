@@ -84,4 +84,8 @@ If you just want to select multiple different places, you can hold CTRL and clic
 
 If you haven't selected anything, start with the cursor at one end of the content you want to select, then either click or use the arrow keys to move to the end of the content you want to select.
 
+## Corrections / Recommendations
+
+If you have any recommendations or see any mistakes, just submit them under issues in this repository - or Slack me, email me, or talk to me in person!
+
 
