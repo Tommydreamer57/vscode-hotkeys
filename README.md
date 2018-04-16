@@ -4,6 +4,7 @@ Here is a list of hotkeys in vscode that you should all know. Some of them are a
 
 Take just a couple minutes to learn each one and practice getting used to it and it will save you time and frustration.
 
+---
 ## Absolutely Necessary:
 
 These ones are crucial to know and will vastly increase your coding speed.
@@ -31,6 +32,7 @@ Vscode provides additional copy-paste functionality to make your life easier:
 <li>If you haven't selected anything, cut and copy will simply cut or copy your current line - this is super useful for deleting one or a few lines without having to select anything.</li>
 <li>After you have cut or copied an entire line, paste will insert that line immediately before the line your cursor is on.</li>
 
+---
 ## Extremely useful
 
 ### Undo
@@ -70,6 +72,7 @@ If you select a word, then press CTRL D, vscode will select the next instance of
 
 If you just want to select multiple different places, you can hold CTRL and click wherever you would like to place another cursor.
 
+---
 ## Good To Know
 
 ### Extend / Decrease Selection
@@ -82,6 +85,7 @@ If you just want to select multiple different places, you can hold CTRL and clic
 
 If you haven't selected anything, start with the cursor at one end of the content you want to select, then either click or use the arrow keys to move to the end of the content you want to select.
 
+---
 ## Corrections / Recommendations
 
 If you have any recommendations or see any mistakes, just submit them under issues in this repository - or Slack me, email me, or talk to me in person!
