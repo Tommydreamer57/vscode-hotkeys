@@ -72,8 +72,16 @@ If you select a word, then press CTRL D, vscode will select the next instance of
 
 If you just want to select multiple different places, you can hold CTRL and click wherever you would like to place another cursor.
 
+## Good To Know
 
+### Extend / Decrease Selection
 
+`SHIFT + LEFT` / `SHIFT + RIGHT` - Extend/decrease selection by one character
 
+`SHIFT + UP` / `SHIFT + DOWN` - Extend/decrease selection by one line
+
+`SHIFT + CLICK` - Extend selection
+
+If you haven't selected anything, start with the cursor at one end of the content you want to select, then either click or use the arrow keys to move to the end of the content you want to select.
 
 
