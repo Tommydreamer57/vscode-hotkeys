@@ -10,9 +10,13 @@ These ones are crucial to know and will vastly increase your coding speed.
 
 ### Auto-Format
 
-Mac: `CTRL + SHIFT + F`
+Mac:
 
-Windows: `ALT + SHIFT + F`
+`CTRL + SHIFT + F`
+
+Windows:
+
+`ALT + SHIFT + F`
 
 Alt Shift F will auto-format whatever file you are currently in. This is an easy way to keep your code clean and consistent. It is also an easy way to find syntax errors as these will mess up the formatting and make them obvious.
 
@@ -41,13 +45,17 @@ Vscode provides additional copy-paste functionality to make your life easier:
 
 ### Move Lines / Copy up/down
 
-Mac: `OPTION + UP` / `OPTION + DOWN` - Move current line
+Mac:
 
-Mac: `OPTION + SHIFT + UP` / `OPTION + SHIFT + DOWN` - Copy current line up/down
+`OPTION + UP` / `OPTION + DOWN` - Move current line
 
-Windows: `ALT + UP` / `ALT + DOWN` - Move current line
+`OPTION + SHIFT + UP` / `OPTION + SHIFT + DOWN` - Copy current line up/down
 
-Windows: `ALT + SHIFT + UP` / `ALT + SHIFT + DOWN` - Copy current line up/down
+Windows:
+
+`ALT + UP` / `ALT + DOWN` - Move current line
+
+`ALT + SHIFT + UP` / `ALT + SHIFT + DOWN` - Copy current line up/down
 
 Alt Up/Down will switch all currently selected lines with the next one up or down.
 Alt Shift Up/Down will copy all currently selected lines and insert them on the next line up/down.
